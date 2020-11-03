@@ -1,4 +1,5 @@
 #!/bin/bash
 
 echo hoge
-echo hog
+echo hoge
+echo hoge
